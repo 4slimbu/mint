@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintdocs=self.webpackChunkmintdocs||[]).push([[3189],{486:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/mintdocs/blog/tags/docusaurus","allTagsPath":"/mintdocs/blog/tags","count":4,"unlisted":false}')}}]);

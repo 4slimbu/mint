@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintdocs=self.webpackChunkmintdocs||[]).push([[2469],{3249:o=>{o.exports=JSON.parse('{"permalink":"/mintdocs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

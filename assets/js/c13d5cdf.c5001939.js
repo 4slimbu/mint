@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintdocs=self.webpackChunkmintdocs||[]).push([[9184],{5952:e=>{e.exports=JSON.parse('{"permalink":"/mintdocs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
