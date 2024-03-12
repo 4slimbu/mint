@@ -44,26 +44,35 @@ const config: Config = {
     ],
   ],
 
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'mpay',
-  //       path: 'mpay',
-  //       routeBasePath: 'mpay',
-  //       sidebarPath: 'sidebars.ts',
-  //     },
-  //   ],
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'eft',
-  //       path: 'eft',
-  //       routeBasePath: 'eft',
-  //       sidebarPath: 'sidebars.ts',
-  //     },
-  //   ],
-  // ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'mpay',
+        path: 'mpay',
+        routeBasePath: 'mpay',
+        sidebarPath: 'sidebars.ts',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'eft',
+        path: 'eft',
+        routeBasePath: 'eft',
+        sidebarPath: 'sidebars.ts',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'kuggar',
+        path: 'kuggar',
+        routeBasePath: 'kuggar',
+        sidebarPath: 'sidebars.ts',
+      },
+    ],
+  ],
 
   themeConfig: {
     // Replace with your project's social card
@@ -93,6 +102,10 @@ const config: Config = {
           position: 'left',
           label: 'Kuggar API',
         },
+        {
+          type: 'docsVersionDropdown',
+          position: 'right'
+        }
       ],
     },
     footer: {
