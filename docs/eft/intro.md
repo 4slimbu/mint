@@ -4,7 +4,6 @@ title: Intro
 sidebar_position: 1
 ---
 
-# Getting Started
+# Intro
 
-This is the getting started guide for our community documentation.
-
+MintEFT API facilitates payment processing with REST endpoints. It supports posting, updating, and authorizing transactions, with robust error handling and status tracking for secure financial operations.
