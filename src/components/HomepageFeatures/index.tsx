@@ -19,7 +19,7 @@ const FeatureList: FeatureItem[] = [
         Mint mPay API offers comprehensive REST support for seamless integration. Utilize HTTP requests to access JSON-formatted responses.
       </>
     ),
-    link: '/docs/mpay/intro'
+    link: '/docs/mpay/introduction'
   },
   {
     title: 'Mint EFT API',
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
         MintEFT API facilitates payment processing with REST endpoints. It supports posting, updating, and authorizing transactions, with robust error handling and status tracking for secure financial operations.
       </>
     ),
-    link: '/docs/eft/intro'
+    link: '/docs/eft/introduction'
   },
   {
     title: 'Kuggar API',
@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
         The Kuggar API provides a RESTful interface for managing virtual cards on kuggar.io. It allows users to create, update, retrieve, and cancel virtual cards either by fetching from a cache or requesting directly from a provider.
       </>
     ),
-    link: '/docs/kuggar/intro'
+    link: '/docs/kuggar/introduction'
   },
 ];
 
