@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmintdocs=self.webpackChunkmintdocs||[]).push([[145],{3946:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/mintdocs/blog/tags/facebook","allTagsPath":"/mintdocs/blog/tags","count":1,"unlisted":false}')}}]);
