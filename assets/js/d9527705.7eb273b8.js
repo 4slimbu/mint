@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintdocs=self.webpackChunkmintdocs||[]).push([[3184],{6234:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"kuggar"}')}}]);
